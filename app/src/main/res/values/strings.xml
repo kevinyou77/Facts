@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Facts</string>
+
+    <string name="country_prompt">Choose what facts you want</string>
+
+    <string-array name="facts_array">
+        <item>Daily</item>
+        <item>Movie</item>
+        <item>Music</item>
+    </string-array>
+
+</resources>
